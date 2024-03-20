@@ -1,3 +1,5 @@
+filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
+filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
 github.com/Dharitri-org/drtg-core v0.0.4 h1:YuI8oXHCS47G0YoAUmC6F4DUiFLGkMBarl8Bh4j6C0I=
 github.com/Dharitri-org/drtg-core v0.0.4/go.mod h1:Ho0OzSrP7uaTMHSajcW+xTBHjLWcE6eB2NmW+AeSpV0=
 github.com/Dharitri-org/drtg-logger v0.0.5 h1:sJ3/4kF05S1uA9TldXphWqd+S26eZajlEmtsoSQF/9k=
