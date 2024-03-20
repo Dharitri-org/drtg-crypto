@@ -3,6 +3,7 @@ module github.com/Dharitri-org/drtg-crypto
 go 1.20
 
 require (
+	filippo.io/edwards25519 v1.1.0
 	github.com/Dharitri-org/drtg-core v0.0.4
 	github.com/Dharitri-org/drtg-logger v0.0.5
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0
